@@ -28,7 +28,7 @@ A sleek and automated highlight reel creator for **Marvel Rivals**!
 ## 🛠 Setup
 
 - Head to the releases page and download the latest `setup.exe` file.
-- Run the `setup.exe` file to install the windows application.
+- Run the `setup.exe` file as admin to install the windows application.
 - Make sure you have **Overwolf’s Outplayed** installed and capturing clips.
 - You're all ready to go!
 
@@ -36,7 +36,7 @@ A sleek and automated highlight reel creator for **Marvel Rivals**!
 
 ## ⚙️ How to Use
 
-1. Open the app via windows search, shortcut, or alternatively, run the 'start.bat' file from directly within the install directory.
+1. Run the app as admin via the desktop shortcut, or alternatively, run the 'start.bat' file from directly within the install directory.
 2. Click "Update" to load your latest game data.
 3. Choose “Create Highlight Compilation”.
 4. Set your filters and pick an output path, then hit go!
